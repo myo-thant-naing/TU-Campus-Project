@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 90px;
+}
+h1{
+    color: aqua;
+}
+img{
+    border: 1px solid orange;
+    margin-left: 10px;
+    border-radius: 10px;
+}

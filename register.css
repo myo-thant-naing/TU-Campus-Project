@@ -1,0 +1,82 @@
+body{
+    font-family: arial,verdana,sans-serif;
+    background-color: rgb(18, 18, 77);
+}
+.back{
+  text-decoration: none;
+  font-size: 30px;
+  margin: 10px;
+}
+    
+.head{
+    color: aqua;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 20px;
+}
+.Si{
+    color: aqua;
+}
+a{
+    color: aqua;
+    font-size: 12px;
+}
+.Reg{
+    font-size: 14px;
+}
+fieldset{
+    color: aqua;
+    border: 2px solid orange;
+    border-radius: 10px;
+    width: 230px;
+    margin-left: 35%;
+    padding: 50px;
+    background-color:  #0e0431;
+}
+.bn632-hover {
+    width: 80px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    height: 23px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 30px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn26 {
+    background-image: linear-gradient(
+      to right,
+      aqua,
+      #4481eb,
+      #04befe,
+      #3f86ed
+    );
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+  }
+ .input:focus{
+  outline: 1px solid orange;
+  border-radius: 3px;
+ }
+ 
+ .input{
+  border-radius: 3px;
+ }

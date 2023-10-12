@@ -1,0 +1,119 @@
+.searchbar{
+     margin-top: 30px;
+    border: 1px solid  orange;
+    border-radius: 3px;
+    margin-left: 15%;
+    
+}
+.header{
+    margin: 0px;
+     position: fixed;
+     width: 100%;
+     
+    background-color:  rgb(18, 18, 77);
+    margin-top: 0px;
+}
+.searchbar:focus{
+    outline: 1px solid orange;
+    border-radius: 3px;
+}
+hr{
+    border-color: aqua;
+    margin-left: 5%;
+}
+body{margin-top: 0px;
+    font-family: arial,verdana,sans-serif;
+    background-color: rgb(18, 18, 77);
+}
+.sidebar {
+    width: 20px;
+    height:20px;
+    /* background-color: aqua; */
+    position: fixed;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    transition: width .50s ease;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+.sidebar:hover{
+    width: 13%;
+    height: 100%;
+    background-color: #05051e ;
+    margin-left: 0px;
+    margin-top: 0px;
+    border: 1px solid aqua;
+}
+.tu{ margin-top: 20px;
+    color: aqua;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.bn632-hover {
+    width: auto;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    height: auto;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 10px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn26 {
+    background-color: rgb(18, 18, 77);
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+  }
+  .Menu{
+    color: aqua;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  iframe{
+    margin-left: 15% ;
+    width: 85%;
+    height: 1000px;
+    
+  }
+  .menu{
+
+    width: 20px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bar{
+    width: 100%;
+    height: 3px;
+    background-color: aqua;
+}
+.copyright{
+  color: #fff;
+ font-size: 12px;
+ opacity: 0.5;
+}

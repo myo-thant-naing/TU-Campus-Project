@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 90px;
+}
+h1{
+    color: aqua;
+}
+a{
+    text-decoration: none;
+}
+.f1{
+
+    width: 30%;
+    height: 1000px;
+  }
+.f2{
+    width: 50%;
+    height: 1000px;
+    margin-left: 50px;
+    border-left: 1px solid aqua;
+}

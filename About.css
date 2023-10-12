@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+    font-size: 14px;
+}
+h1{
+    color: aqua;
+}
+p{  color: #fff;
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 2em;
+    
+}

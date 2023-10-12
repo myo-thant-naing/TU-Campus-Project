@@ -1,0 +1,12 @@
+body{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td,th{
+    width: 200px;
+    text-align: center;
+    height: 50px;
+}
+table{
+    margin-left: 20px;
+}

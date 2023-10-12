@@ -1,0 +1,61 @@
+body
+{
+    font-family: arial,verdana,sans-serif;
+    background-image: url(images/School.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.wc{
+    font-family: arial,sans-serif;
+    font-size: 70px;
+    color:  rgb(18, 18, 77);;;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 0px 10px 3px  rgba(65, 132, 234, 0.75);
+
+}
+.bn632-hover {
+    width: 160px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    height: 50px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn26 {
+    background-color: rgb(18, 18, 77);
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+  }
+  .Sig{
+    text-align: center;
+    margin-top: 350px;
+  }
+  .exit{
+    color: #fff;
+    width: 50px;
+    height: 20px;
+    margin: 10px;
+    font-weight: lighter;
+
+  }
